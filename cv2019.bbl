@@ -1,0 +1,166 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{okuyama2019effect}{article}{}
+      \name{author}{6}{uniquelist=1}{%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=80465da83167398a1e5e674d62156cce}{%
+           family={Akai},
+           familyi={A\bibinitperiod},
+           given={Kenju},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e3796b92df2a411f258d377cc96f35b}{%
+           family={Kijima},
+           familyi={K\bibinitperiod},
+           given={Tsunetaka},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=da6aeb3a7d1b8b6892bae226bd56e0ac}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Takafumi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=722fcc55fa9ea97eb2b3212ee7c23363}{%
+           family={Isomura},
+           familyi={I\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d646c2666632dad11c90002c12e3ebc}{%
+           family={Nabika},
+           familyi={N\bibinitperiod},
+           given={Toru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{2d9c2daf2de6a2c223c9f56cfd7b4b8b}
+      \strng{fullhash}{82f60f815ae43afa6d533f548e415e62}
+      \strng{bibnamehash}{2d9c2daf2de6a2c223c9f56cfd7b4b8b}
+      \strng{authorbibnamehash}{2d9c2daf2de6a2c223c9f56cfd7b4b8b}
+      \strng{authornamehash}{2d9c2daf2de6a2c223c9f56cfd7b4b8b}
+      \strng{authorfullhash}{82f60f815ae43afa6d533f548e415e62}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{3}
+      \field{title}{Effect of geographic accessibility to primary care on treatment status of hypertension}
+      \field{volume}{14}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{e0213098}
+      \range{pages}{-1}
+    \endentry
+    \entry{mcandrews2017reach}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=a42907ae3cb4c3d7d2a1c521341b6f61}{%
+           family={McAndrews},
+           familyi={M\bibinitperiod},
+           given={Carolyn},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ffd97df216a5020d52959b85701ff238}{%
+           family={Litt},
+           familyi={L\bibinitperiod},
+           given={Jill\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{7d23373028924632dcc69409188be747}
+      \strng{fullhash}{7d23373028924632dcc69409188be747}
+      \strng{bibnamehash}{7d23373028924632dcc69409188be747}
+      \strng{authorbibnamehash}{7d23373028924632dcc69409188be747}
+      \strng{authornamehash}{7d23373028924632dcc69409188be747}
+      \strng{authorfullhash}{7d23373028924632dcc69409188be747}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation research record}
+      \field{number}{1}
+      \field{title}{The reach of bicycling in rural, small, and low-density places}
+      \field{volume}{2662}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{134\bibrangedash 142}
+      \range{pages}{9}
+    \endentry
+    \entry{okuyama2017impact}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{fullhash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{bibnamehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{authorbibnamehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{authornamehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{authorfullhash}{d95902683ac6d67ae3b9464ff004156e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medicine \& Science in Sports \& Exercise}
+      \field{number}{5S}
+      \field{title}{The Impact of Public Transportation on Daily Walking Level: 3225 Board\# 130 June 2 200 PM-330 PM}
+      \field{volume}{49}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{915}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
