@@ -1,0 +1,231 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{okuyama2019hilly}{article}{}
+      \name{author}{7}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=da6aeb3a7d1b8b6892bae226bd56e0ac}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Takafumi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=52e4495a286db73c7036dbeb672d6c06}{%
+           family={Hamano},
+           familyi={H\bibinitperiod},
+           given={Tsuyoshi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5938fa203d8c5a39cb411a5d98d0298}{%
+           family={Takeda},
+           familyi={T\bibinitperiod},
+           given={Miwako},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2b1d9085b016a057efb2cbbfd028510e}{%
+           family={Sundquist},
+           familyi={S\bibinitperiod},
+           given={Kristina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cc1aac2aae5b6ea12a91fd8fbde7ad24}{%
+           family={Sundquist},
+           familyi={S\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d646c2666632dad11c90002c12e3ebc}{%
+           family={Nabika},
+           familyi={N\bibinitperiod},
+           given={Toru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {BioMed Central}%
+      }
+      \strng{namehash}{a53e3160ea4169f3079dd7c45d97e644}
+      \strng{fullhash}{defdd1290eb473aa121bf1d08103d10b}
+      \strng{bibnamehash}{a53e3160ea4169f3079dd7c45d97e644}
+      \strng{authorbibnamehash}{a53e3160ea4169f3079dd7c45d97e644}
+      \strng{authornamehash}{a53e3160ea4169f3079dd7c45d97e644}
+      \strng{authorfullhash}{defdd1290eb473aa121bf1d08103d10b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of health geographics}
+      \field{number}{1}
+      \field{title}{Hilly neighborhoods are associated with increased risk of weight gain among older adults in rural Japan: a 3-years follow-up study}
+      \field{volume}{18}
+      \field{year}{2019}
+      \field{pages}{10}
+      \range{pages}{1}
+    \endentry
+    \entry{okuyama2019effect}{article}{}
+      \name{author}{6}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=80465da83167398a1e5e674d62156cce}{%
+           family={Akai},
+           familyi={A\bibinitperiod},
+           given={Kenju},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1e3796b92df2a411f258d377cc96f35b}{%
+           family={Kijima},
+           familyi={K\bibinitperiod},
+           given={Tsunetaka},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=da6aeb3a7d1b8b6892bae226bd56e0ac}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Takafumi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=722fcc55fa9ea97eb2b3212ee7c23363}{%
+           family={Isomura},
+           familyi={I\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d646c2666632dad11c90002c12e3ebc}{%
+           family={Nabika},
+           familyi={N\bibinitperiod},
+           given={Toru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{bef6d86dd22210595a03f2283f19e5b9}
+      \strng{fullhash}{82f60f815ae43afa6d533f548e415e62}
+      \strng{bibnamehash}{bef6d86dd22210595a03f2283f19e5b9}
+      \strng{authorbibnamehash}{bef6d86dd22210595a03f2283f19e5b9}
+      \strng{authornamehash}{bef6d86dd22210595a03f2283f19e5b9}
+      \strng{authorfullhash}{82f60f815ae43afa6d533f548e415e62}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{3}
+      \field{title}{Effect of geographic accessibility to primary care on treatment status of hypertension}
+      \field{volume}{14}
+      \field{year}{2019}
+      \field{pages}{e0213098}
+      \range{pages}{-1}
+    \endentry
+    \entry{mcandrews2017reach}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=a42907ae3cb4c3d7d2a1c521341b6f61}{%
+           family={McAndrews},
+           familyi={M\bibinitperiod},
+           given={Carolyn},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d422e718d61bd6bc42de3556661384aa}{%
+           family={Litt},
+           familyi={L\bibinitperiod},
+           given={Jill\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{ce568d1ae101e4fdfbb70710ff2655fb}
+      \strng{fullhash}{ce568d1ae101e4fdfbb70710ff2655fb}
+      \strng{bibnamehash}{ce568d1ae101e4fdfbb70710ff2655fb}
+      \strng{authorbibnamehash}{ce568d1ae101e4fdfbb70710ff2655fb}
+      \strng{authornamehash}{ce568d1ae101e4fdfbb70710ff2655fb}
+      \strng{authorfullhash}{ce568d1ae101e4fdfbb70710ff2655fb}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation research record}
+      \field{number}{1}
+      \field{title}{The reach of bicycling in rural, small, and low-density places}
+      \field{volume}{2662}
+      \field{year}{2017}
+      \field{pages}{134\bibrangedash 142}
+      \range{pages}{9}
+    \endentry
+    \entry{okuyama2017impact}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d95902683ac6d67ae3b9464ff004156e}{%
+           family={Okuyama},
+           familyi={O\bibinitperiod},
+           given={Kenta},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{fullhash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{bibnamehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{authorbibnamehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{authornamehash}{d95902683ac6d67ae3b9464ff004156e}
+      \strng{authorfullhash}{d95902683ac6d67ae3b9464ff004156e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medicine \& Science in Sports \& Exercise}
+      \field{number}{5S}
+      \field{title}{The Impact of Public Transportation on Daily Walking Level: 3225 Board\# 130 June 2 200 PM-330 PM}
+      \field{volume}{49}
+      \field{year}{2017}
+      \field{pages}{915}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
